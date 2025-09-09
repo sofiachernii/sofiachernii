@@ -2,7 +2,7 @@
 
 📖 I'm currently self-learning (and not only) to become a Data Analyst. Also currently seeking new opportunities in data analysis.
 
-🚀 Main Stack:
+# 🚀 Main Stack:
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
